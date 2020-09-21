@@ -2,7 +2,7 @@
 # Project: USBaspLoader
 # Author: Christian Starkjohann
 # Creation Date: 2007-12-10
-# Author: Stephan Bärwolf
+# Author: Stephan Baerwolf
 # Improvement Date: 2012-07-31
 # Improvement Date: 2012-09-12
 # Tabsize: 4
